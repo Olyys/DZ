@@ -27,54 +27,54 @@
 //     Console.WriteLine("Третьего числа нет");
 //  }
 
-// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, 
-// является ли этот день выходным.
-// 6 -> да
-// 7 -> да
-// 1 -> нет
+// // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, 
+// // является ли этот день выходным.
+// // 6 -> да
+// // 7 -> да
+// // 1 -> нет
 
-Console.Write("Введите номер дня недели: ");
-int day = int.Parse(Console.ReadLine()!);
+// Console.Write("Введите номер дня недели: ");
+// int day = int.Parse(Console.ReadLine()!);
 
-int a = 1;
-int b = 2;
-int c = 3;
-int d = 4;
-int e = 5;
-int f = 6;
-int g = 7;
+// int a = 1;
+// int b = 2;
+// int c = 3;
+// int d = 4;
+// int e = 5;
+// int f = 6;
+// int g = 7;
 
-if(day == a)
-{
-    Console.WriteLine ("нет");
-}
+// if(day == a)
+// {
+//     Console.WriteLine ("нет");
+// }
 
-if(day == b)
-{
-    Console.WriteLine ("нет");
-}
+// if(day == b)
+// {
+//     Console.WriteLine ("нет");
+// }
 
-if(day == c)
-{
-    Console.WriteLine ("нет");
-}
+// if(day == c)
+// {
+//     Console.WriteLine ("нет");
+// }
 
-if(day == d)
-{
-    Console.WriteLine ("нет");
-}
+// if(day == d)
+// {
+//     Console.WriteLine ("нет");
+// }
 
-if(day == e)
-{
-    Console.WriteLine ("нет");
-}
+// if(day == e)
+// {
+//     Console.WriteLine ("нет");
+// }
 
-if(day == f)
-{
-    Console.WriteLine ("да");
-}
+// if(day == f)
+// {
+//     Console.WriteLine ("да");
+// }
 
-if(day == g)
-{
-    Console.WriteLine ("да");
-}
+// if(day == g)
+// {
+//     Console.WriteLine ("да");
+// }
